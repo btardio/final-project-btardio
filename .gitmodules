@@ -1,3 +1,6 @@
 [submodule "final-project-btardio-raspberrypi"]
 	path = final-project-btardio-raspberrypi
 	url = git@github.com:btardio/final-project-btardio-raspberrypi.git
+[submodule "final-project-btardio-openwrt"]
+	path = final-project-btardio-openwrt
+	url = git@github.com:btardio/final-project-btardio-openwrt.git
