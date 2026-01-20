@@ -1,6 +1,6 @@
 ### Project Goals
 
-After successfully creating images for Raspberry PI 5 and OpenWRT, configure K3s and an ingress. Additionally succeed at creating an image processing application in python using an algorithm that puts the system under load. 
+After successfully creating images for Raspberry PI 5 and imx93_frdm, configure K3s and an ingress. Additionally succeed at creating an image processing application in python using an algorithm that puts the system under load. 
 
 ### Motivation
 
