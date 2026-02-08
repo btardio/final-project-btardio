@@ -4,3 +4,6 @@
 [submodule "final-project-btardio-openwrt"]
 	path = final-project-btardio-openwrt
 	url = git@github.com:btardio/final-project-btardio-openwrt.git
+[submodule "final-project-image-processing"]
+	path = final-project-image-processing
+	url = git@github.com:btardio/final-project-image-processing.git
